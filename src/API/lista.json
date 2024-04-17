@@ -1,0 +1,67 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Noote book intel - Mais ULTRA",
+      "valor": 2500,
+      "detalhes": "Processador XT 5 núcleo 420MB cache, Memória RAM 8GB, placa de vídeo AMR Rodeon 4GB",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfWI--ZYE5wJ6HxyedJF4J6wHD3nT5lYfMg&usqp=CAU"
+    },
+    {
+      "id": "2",
+      "nome": "HD Externo",
+      "valor": 210,
+      "detalhes": "Hd de 1 terByte",
+      "img": "https://images-americanas.b2w.io/produtos/3442017475/imagens/hd-externo-portatil-320gb-completo-com-cabo-2-0-promocao/3442017483_1_large.jpg"
+    },
+    {
+      "id": "3",
+      "nome": "Memória Kingston",
+      "valor": 220,
+      "detalhes": "Memória RAM Fury Beast DDR4 RGB color preto 16GB 1 Kingston KF432C16BB1A/16",
+      "img": "https://images.kabum.com.br/produtos/fotos/172388/memoria-kingston-fury-beast-rgb-32gb-2x16gb-2666mhz-ddr4-cl16-preto-kf426c16bb1ak2-32_1662151104_original.jpg"
+    },
+    {
+      "id": "4",
+      "nome": "Teclado Gamer",
+      "valor": 170,
+      "detalhes": "TECLADO GAMER HP K500F, RGB, ABNT2 - 7ZZ97AA#AC4",
+      "img": "https://img.terabyteshop.com.br/produto/g/teclado-gamer-ninja-black-noir-rgb-switch-membrana-abnt2-black-tc-gn-bknr_148766.png"
+    },
+    {
+      "id": "5",
+      "nome": "CPU",
+      "valor": 380,
+      "detalhes": "Processador i7 8 núcleos",
+      "img": "https://t3.ftcdn.net/jpg/00/81/24/72/360_F_81247213_OYvGTCn5mnQQ2c0gWJ1U5ixcbmNBaMOp.jpg"
+    },
+    {
+      "id": "5",
+      "nome": "CPU",
+      "valor": 380,
+      "detalhes": "Processador i7 8 núcleos",
+      "img": "https://t3.ftcdn.net/jpg/00/81/24/72/360_F_81247213_OYvGTCn5mnQQ2c0gWJ1U5ixcbmNBaMOp.jpg"
+    },
+    {
+      "id": "272d",
+      "nome": "Mouse Óptico",
+      "valor": "120",
+      "detalhes": "Mouse com ação integra de dados",
+      "img": "https://cdn.awsli.com.br/600x450/1047/1047116/produto/111306296/062dc4cb58.jpg"
+    },
+    {
+      "id": "4fd0",
+      "nome": "Placa mãe VT45s",
+      "valor": "520",
+      "detalhes": "Placa moderna para PC games",
+      "img": "https://s2-techtudo.glbimg.com/dcjSFcvtd1icgsASNSFuf-hklgc=/0x81:695x526/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/2/c/q6cecOTsaIz3yeAMnGGQ/5.png"
+    },
+    {
+      "id": "d405",
+      "nome": "Mouse Pad",
+      "valor": "55",
+      "detalhes": "Mouse pad de fino acabamento",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_2X_645049-MLM31220839405_062019-F.jpg"
+    }
+  ]
+}
