@@ -41,7 +41,7 @@ export function PainelBase()
                         <td> <img className="fto" src={d.img}  /> </td>
                         <td>
                         <Link to={`/atualizar/${d.id}`} className='btn btn-sm btn-success'>Atualizar</Link>
-                        <button className='btn btn-sm ms-1 btn-danger' >Excluir</button>
+                        <button onClick={e => hardSubmit(d.id)} className='btn btn-sm ms-1 btn-danger' >Excluir</button>
                         {/* <Link to="/" className='btn btn-sm ms-1 btn-danger'>Excluir</Link> */}
                         </td>
                     </tr>
@@ -53,4 +53,19 @@ export function PainelBase()
         </div>
         </>
     )
+    //função de exclusão
+    function hardSubmit(id)
+    {
+        const conf = window.confirm("Deseja excluir esse registro??!!")
+        if(conf)
+        {
+         axios.delete("http://localhost:3000/produtos/"+id)
+         .then(resp => { 
+            alert("Dados excluidos com sucesso!!")
+            navegar("/adm321")
+          })
+          .catch(err => console.log(err))   
+        }
+
+    }
 }

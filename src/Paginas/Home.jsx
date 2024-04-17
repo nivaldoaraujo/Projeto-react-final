@@ -1,10 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import axios from 'axios';
 import { useEffect, useState } from 'react';
-import { Navigate } from 'react-router-dom';
+import { Link, Navigate } from 'react-router-dom';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Carrosel from '../Componentes/Carrosel';
+
 
 export function Home()
 {
@@ -31,10 +32,9 @@ export function Home()
                         {d.detalhes}
                       </Card.Text>
                       {d.valor}
-                      <Card.Text>
-                      </Card.Text>
-                      <Button variant="primary">Go somewhere</Button>
+                                           
                     </Card.Body>
+                    <Link to={`/carrinho/${d.id}`} className='btn btn-primary'>Comprar</Link>
                   </Card> 
 
                   ))

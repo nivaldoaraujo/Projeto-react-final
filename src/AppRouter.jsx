@@ -8,6 +8,8 @@ import { Painel } from "./Paginas/Painel";
 import { Sobre } from "./Paginas/Sobre";
 import { PainelBase } from "./Paginas/PainelBase";
 import { Atualizar } from "./Paginas/Atualizar";
+import { Carrinho } from "./Paginas/Carrinho";
+
 
 
 
@@ -23,6 +25,7 @@ export function AppRouter()
                 <Route  path="/adm321" element={<PainelBase />} ></Route>
                 <Route  path="/painel" element={<Painel />} ></Route>
                 <Route  path="/atualizar/:id" element={<Atualizar />} ></Route>
+                <Route  path="/carrinho/:id" element={<Carrinho />} ></Route>
                 
             </Routes>
         </BrowserRouter>

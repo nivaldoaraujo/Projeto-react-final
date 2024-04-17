@@ -22,27 +22,6 @@
       "img": "https://images.kabum.com.br/produtos/fotos/172388/memoria-kingston-fury-beast-rgb-32gb-2x16gb-2666mhz-ddr4-cl16-preto-kf426c16bb1ak2-32_1662151104_original.jpg"
     },
     {
-      "id": "4",
-      "nome": "Teclado Gamer",
-      "valor": 170,
-      "detalhes": "TECLADO GAMER HP K500F, RGB, ABNT2 - 7ZZ97AA#AC4",
-      "img": "https://img.terabyteshop.com.br/produto/g/teclado-gamer-ninja-black-noir-rgb-switch-membrana-abnt2-black-tc-gn-bknr_148766.png"
-    },
-    {
-      "id": "5",
-      "nome": "CPU",
-      "valor": 380,
-      "detalhes": "Processador i7 8 núcleos",
-      "img": "https://t3.ftcdn.net/jpg/00/81/24/72/360_F_81247213_OYvGTCn5mnQQ2c0gWJ1U5ixcbmNBaMOp.jpg"
-    },
-    {
-      "id": "5",
-      "nome": "CPU",
-      "valor": 380,
-      "detalhes": "Processador i7 8 núcleos",
-      "img": "https://t3.ftcdn.net/jpg/00/81/24/72/360_F_81247213_OYvGTCn5mnQQ2c0gWJ1U5ixcbmNBaMOp.jpg"
-    },
-    {
       "id": "272d",
       "nome": "Mouse Óptico",
       "valor": "120",
@@ -62,6 +41,20 @@
       "valor": "55",
       "detalhes": "Mouse pad de fino acabamento",
       "img": "https://http2.mlstatic.com/D_NQ_NP_2X_645049-MLM31220839405_062019-F.jpg"
+    },
+    {
+      "id": "ad78",
+      "nome": "Câmera Padrão ",
+      "valor": "130",
+      "detalhes": "Câmera com resolução expert",
+      "img": "https://th.bing.com/th/id/OIP.hK4tn3DM_THsiCBbwaYePAHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "6384",
+      "nome": "Teclado Gamer Tanos",
+      "valor": "250",
+      "detalhes": "Teclado personalizado Marvel",
+      "img": "https://good-goods-online.com/wp-content/uploads/2019/09/Avengers-Infinity-War-Thanos-Infinity-Gauntlet-Custom-Keycap-Artisan-Keycap-For-Cherry-MX-Switch-Mechanical-Keyboard-13.jpg"
     }
   ]
 }
